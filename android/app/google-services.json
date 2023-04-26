@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "340325537167",
+    "project_id": "navigatingfirebaseloginpage",
+    "storage_bucket": "navigatingfirebaseloginpage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340325537167:android:9ef5e74b72b0990aa067fa",
+        "android_client_info": {
+          "package_name": "com.navigatingfirebaseloginpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340325537167-de0qfdtg0kafkt1hsbrajl8rluu8jvqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChGV3sctTtPeHUP2Yx4dXVnLXivzL3-vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340325537167-de0qfdtg0kafkt1hsbrajl8rluu8jvqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
